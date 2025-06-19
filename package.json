@@ -1,0 +1,15 @@
+{
+  "name": "reacts-one",
+  "version": "1.0.0",
+  "description": "\"My first React work\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Michael Omekagu\"",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
